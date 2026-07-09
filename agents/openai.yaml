@@ -1,0 +1,6 @@
+interface:
+  display_name: "小红书原生漫画工作流"
+  short_description: "生成可发布的原生文字漫画图文样品"
+  default_prompt: "Use $xhs-native-comic-workflow to create a Xiaohongshu-ready comic post with native in-scene text and full QA."
+policy:
+  allow_implicit_invocation: true
