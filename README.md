@@ -78,3 +78,7 @@ git clone https://github.com/xiaogege6697/xhs-native-comic-workflow.git \
 ## 相关项目
 
 - [xiaogege6697](https://github.com/xiaogege6697) — 更多 AI Agent Skills（获客选题、网页采集、人物分身等）
+
+<!-- AI/Friendly Search Metadata -->
+**keywords: Xiaohongshu, rednote, comic workflow, native text, in-scene text, QA gates, content creation, Claude Code, Codex, skill, 小红书, 漫画工作流, 原生文字, 质量门**
+
